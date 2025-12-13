@@ -8,8 +8,11 @@ This guide provides a comprehensive action plan to improve your online presence 
 ## 1. GitHub Profile Optimization
 
 ### Current State Analysis
-- **Profile URL**: https://github.com/parth656
+- **Profile URL**: https://github.com/parth656 (personal profile)
+- **Organization/Secondary**: https://github.com/Parth416 (portfolio repository)
 - **Repository**: Parth416.github.io (portfolio site)
+
+**Note**: If you have multiple GitHub accounts (parth656 and Parth416), consider consolidating them into one account for consistency. Having multiple accounts can confuse recruiters. Choose your primary account and migrate repositories if needed.
 
 ### Action Steps for GitHub:
 

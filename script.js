@@ -111,8 +111,7 @@ style.textContent = `
 `;
 document.head.appendChild(style);
 
-// Mobile menu toggle (if needed in future)
-// This is a placeholder for mobile navigation functionality
+// Mobile menu toggle functionality
 function setupMobileMenu() {
     const navMenu = document.querySelector('.nav-menu');
     const navBrand = document.querySelector('.nav-brand');
